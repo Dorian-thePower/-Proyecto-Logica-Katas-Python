@@ -7,7 +7,7 @@ El trabajo se ha organizado de la siguiente manera:
 
 1.- Cada enunciado se ha resuelto en un archivo independiente .py.
 
-2.- En los ejercicios más complejos se han agregado comentarios expicativos de cada paso del código
+2.- En los ejercicios más complejos se han agregado comentarios expicativos de cada paso del código.
 
 3.- En paralelo, cada ejercicio ha sido practicado y analizado en notebooks .ipynb de Jupyter, permitiendo visualizar salidas, pruebas y explicaciones.
 
