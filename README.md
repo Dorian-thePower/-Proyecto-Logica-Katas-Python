@@ -1,17 +1,17 @@
 🐍 Proyecto Lógica: Katas Python
 
 📘 Descripción del proyecto
-Este repositorio contiene los ejercicios desarrollados según las indicaciones del documento EnunciadoDataProjectPython.pdf.
+Este repositorio contiene los ejercicios desarrollados (Enunciados_Katas_Python.zip) según las indicaciones del documento EnunciadoDataProjectPython.pdf.
 
 El trabajo se ha organizado de la siguiente manera:
 
-1.- Cada enunciado se ha resuelto en un archivo independiente .py.
+1.- Cada enunciado se ha resuelto en un archivo independiente .py (Proyecto_Logica_Katas.zip. 
 
 2.- En los ejercicios más complejos se han agregado comentarios expicativos de cada paso del código.
 
-3.- En paralelo, cada ejercicio ha sido practicado y analizado en notebooks .ipynb de Jupyter, permitiendo visualizar salidas, pruebas y explicaciones.
+3.- En paralelo, cada ejercicio ha sido practicado y analizado en notebooks .ipynb de Jupyter, permitiendo visualizar salidas, pruebas y explicaciones (python_basico.zip).
 
-4.- Al final de cada bloque de 10 ejercicios completados se ha realizado un recap adicional en Jupyter para reforzar los conocimientos adquiridos.
+4.- Al final de cada bloque de 10 ejercicios completados se ha realizado un recap adicional en Jupyter para reforzar los conocimientos adquiridos (python_basico.zip).
 
 🎯 Objetivo de los ejercicios
 
